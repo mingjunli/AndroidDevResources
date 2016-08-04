@@ -291,5 +291,6 @@
 * LeakCanary
 * DbInspector
 
-
+------
+[Github](https://github.com/mingjunli), [个人博客](www.lmj.wiki), [简书](http://www.jianshu.com/users/bc1dacc65fae)
 
