@@ -292,5 +292,5 @@
 * DbInspector
 
 ------
-[Github](https://github.com/mingjunli), [个人博客](www.lmj.wiki), [简书](http://www.jianshu.com/users/bc1dacc65fae)
+[Github](https://github.com/mingjunli), [博客](www.lmj.wiki), [简书](http://www.jianshu.com/users/bc1dacc65fae), [掘金](http://gold.xitu.io/user/55fea74eddb2af5b92097a64), [开发者头条](http://toutiao.io/subjects/55359)
 

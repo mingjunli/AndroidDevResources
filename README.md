@@ -6,6 +6,10 @@
 
 ### [Android探索之旅](https://github.com/mingjunli/AndroidDevResources/blob/master/Androd%E6%8E%A2%E7%B4%A2%E4%B9%8B%E6%97%85.md)
 
+------
+[Github](https://github.com/mingjunli), [博客](www.lmj.wiki), [简书](http://www.jianshu.com/users/bc1dacc65fae), [掘金](http://gold.xitu.io/user/55fea74eddb2af5b92097a64), [开发者头条](http://toutiao.io/subjects/55359)
+
+
 
 
 
